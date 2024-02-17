@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: "Roboto", sans-serif;
+}
+/* .alice-carousel__next-btn-wrapper {
+  position: absolute;
+  top: 8rem;
+  right: -3rem;
+  padding: 1rem;
+  background: #ffffff64;
+  border-radius: 1rem;
+}
+.alice-carousel__prev-btn-wrapper {
+  position: absolute;
+  top: 8rem;
+  left: -3rem;
+  padding: 1rem;
+  background: #ffffff64;
+  border-radius: 1rem;
+}
+.alice-carousel__prev-btn-wrapper span {
+  display: inline-block;
+  width: 3rem;
+} */
